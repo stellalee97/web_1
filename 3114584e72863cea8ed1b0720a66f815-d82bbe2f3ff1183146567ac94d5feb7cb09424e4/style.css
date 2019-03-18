@@ -1,0 +1,39 @@
+.Career{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background: black;
+  color: white;
+  text-align: center;
+  line-height: 200px;
+  font-size: 35px;
+  position: absolute;
+}
+
+.Artwork{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background: black;
+  color: white;
+  text-align: center;
+  line-height: 200px;
+  font-size: 35px;
+  position: absolute;
+}
+
+#content{
+  font-size: 190px;
+  color: white;
+  text-align: center;
+  line-height: 720px;
+  font-family: SignPainter;
+  
+  
+}
+
+#box{
+  width: 1440px;
+  height: 720px;
+  background:url("http://images6.fanpop.com/image/photos/41500000/Walt-Disney-cherl12345-tamara-41501162-1600-1200.jpg")
+}
